@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.2" baseProfile="tiny" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" xml:space="preserve">
+<g id="bg" display="none">
+	<rect x="-256" y="-136" display="inline" fill="#5D5D5D" width="510" height="501"/>
+</g>
+<g id="iconos">
+	<path fill="#FFFFFF" d="M84.867,23.292L66.383,4.809c-0.557-0.555-1.324-0.873-2.111-0.873h-46.1c-1.883,0-3.912,1.455-3.912,4.647
+		v57.302h71.48V26.139C85.74,24.922,85.594,24.021,84.867,23.292z M76.209,37.293v3.176v3.178v3.177V50v3.177v6.354H42.854h-3.178
+		H23.791v-6.354V50v-3.177v-3.177v-3.178v-3.176v-3.178v-3.176h19.063h33.355V37.293z M80.354,26.174H63.502V9.322
+		c0-0.729,0.879-1.092,1.393-0.577L80.93,24.78C81.445,25.295,81.08,26.174,80.354,26.174z M14.26,92.888
+		c0,1.603,1.938,3.177,3.912,3.177h63.656c1.975,0,3.912-1.574,3.912-3.177V69.061H14.26V92.888z M56.918,74.883H69.6v3.024h-4.758
+		v14.136h-3.283V77.907h-4.641V74.883z M45.596,74.883l3.234,5.861l3.305-5.861h3.635l-5.158,8.557l5.041,8.604h-3.635l-3.188-5.768
+		l-3.164,5.768h-3.633l5.039-8.604l-5.111-8.557H45.596z M27.992,74.883h12.68v3.024h-4.758v14.136h-3.281V77.907h-4.641V74.883z
+		 M42.854,53.177H26.969v3.177h15.885h4.063h26.117v-3.177H46.916H42.854z M26.969,34.115v3.178h15.885h4.229h25.951v-3.178H47.082
+		h-4.229H26.969z M42.854,40.469H26.969v3.178h15.885h4.063h26.117v-3.178H46.916H42.854z M42.854,46.823H26.969V50h15.885h4.063
+		h26.117v-3.177H46.916H42.854z"/>
+</g>
+</svg>
